@@ -1,25 +1,26 @@
 # Hi there, I'm Mohamed Essyad 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;JavaScript+%26+Python+Developer;React+%26+Node.js+Enthusiast;CEO+%40+Elhilal)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;TypeScript+%26+Python+Developer;React+%26+Next.js+Enthusiast;Building+Correyo)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-Full-Stack Developer passionate about building web applications and exploring AI-powered solutions. I work primarily with JavaScript and Python, focusing on React, Node.js, and modern web development.
+Full-Stack Developer passionate about building web applications and exploring AI-powered solutions. I work primarily with TypeScript and Python, focusing on React, Next.js, and modern web development.
 
 - 🌍 Based in **Nouakchott, Mauritania**
-- 💼 **CEO & Co-founder** at [Elhilal](https://www.elhilal-dev.com/)
+- 💼 **Founder** - Building [Correyo](https://github.com/ahmedEssyad/correyo-v2)
 - 🎓 Studying at **Supnum**
-- 🔭 Currently working on **Correyo** - AI-powered email assistant
+- 🔭 Currently working on **Correyo** - Privacy-first AI email assistant launching Dec 26, 2025
 - 🌱 Learning **AI integration** and exploring **modern web technologies**
 - 💡 Passionate about creating innovative solutions that solve real-world problems
 
 ## 🛠️ Tech Stack
 
 ### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,20 +28,25 @@ Full-Stack Developer passionate about building web applications and exploring AI
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Databases
+### Databases & Backend Services
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Learning & Exploring
+### AI & APIs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail_API-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### Tools
+### Deployment & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -58,17 +64,17 @@ Full-Stack Developer passionate about building web applications and exploring AI
 
 ## 🎯 Featured Projects
 
+### 🤖 [Correyo - AI Email Assistant](https://github.com/ahmedEssyad/correyo-v2)
+Privacy-first AI-powered email management platform with intelligent automation and zero storage architecture.
+- **Tech**: Next.js 16, React 19, TypeScript, Tailwind CSS, Supabase, OpenAI GPT-4, Gmail API
+- **Status**: 🚀 Launching December 26, 2025
+- **Features**: AI chat assistant, smart inbox, auto-categorization, privacy-first (zero email storage)
+
 ### 🏪 [E-Commerce Admin Dashboard](https://github.com/ahmedEssyad/admin-dashboard)
 Production-ready e-commerce admin dashboard with real-time analytics, inventory management, and comprehensive reporting.
 - **Tech**: React, Chart.js, Material-UI
 - **Status**: ✅ Live Demo Available
 - **Features**: Real-time analytics, responsive design, modern UI
-
-### 🤖 [Correyo - AI Email Assistant](https://github.com/ahmedEssyad/correyo)
-AI-powered email assistant integrating OpenAI GPT for intelligent email generation and Gmail API for seamless management.
-- **Tech**: OpenAI API, Gmail API, PayPal Gateway, Node.js, React
-- **Status**: 🚧 In Development
-- **Features**: AI email generation, payment integration, smart automation
 
 ### 🩸 [Blood Bank Management System](https://github.com/ahmedEssyad/blood-bank-api)
 Secure API-driven blood donation management system with donor tracking and hospital requisition features.
@@ -88,11 +94,19 @@ Specialized security tool for comprehensive DNS enumeration with subdomain disco
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedEssyad&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
 </div>
 
-## 🏆 Achievements
+## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedEssyad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedEssyad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
 </div>
+
+### 🌟 Key Highlights
+- 🚀 Building **Correyo** - Next-gen AI email assistant
+- 💻 Full-stack developer with expertise in **React**, **Next.js**, and **TypeScript**
+- 🤖 Integrating **AI** into real-world applications
+- 🔐 Privacy-first architecture advocate
+- 📚 Computer Science student at **Supnum**
+- 🌍 Based in **Mauritania**, building for global users
 
 ## 📫 Let's Connect
 
@@ -110,8 +124,8 @@ Specialized security tool for comprehensive DNS enumeration with subdomain disco
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedEssyad&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  
-  **💡 "Passionate about creating innovative solutions that solve real-world problems"**
-  
+
+  **💡 "Building privacy-first solutions that put users in control"**
+
   ⭐ From [ahmedEssyad](https://github.com/ahmedEssyad)
 </div>
